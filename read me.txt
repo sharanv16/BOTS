@@ -1,0 +1,5 @@
+The time table bot has been created with the primary purpose for joining online classes.
+Command : $period (day order)
+the bot checks the time and returns a link in the respective channel
+
+-Sharan Varghese
